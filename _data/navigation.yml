@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
