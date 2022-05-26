@@ -1,0 +1,1 @@
+A research engineer with extensive experience in deep learning, computer vision, medical imaging, etc. Has worked at several research institutes and participated multiple research & industry projects related to healthcare, semiconductor, sports, etc. Currently carrying out several AI projects on biomedical informatics.
