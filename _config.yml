@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziyuan (Jacob) ZHAO (赵子源)"
-  avatar           : "images/Ziyuan-Zhao-2.jpg"
+  name             : "Ziyuan (Jacob) ZHAO"
+  avatar           : "images/Ziyuan-Zhao-2.png"
   bio              : "SCSE, NTU & I2R, A*STAR"
   location         : "Singapore"
   employer         :
