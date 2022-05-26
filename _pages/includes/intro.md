@@ -1,1 +1,3 @@
-A research engineer with extensive experience in deep learning, computer vision, medical imaging, etc. Has worked at several research institutes and participated multiple research & industry projects related to healthcare, semiconductor, sports, etc. Currently carrying out several AI projects on biomedical informatics.
+Welcome to Ziyuan (Jacob) ZHAO's homepage (赵子源)
+
+Ziyuan Zhao is currently a Ph.D. student at the School of Computer Science and Engineering, <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a>, supervised by <a href="https://personal.ntu.edu.sg/ctguan/">Prof. Cuntai Guan</a>. Previously, he received a master's degree from National University of Singapore in 2019.
