@@ -1,4 +1,3 @@
-
 # 📝 Selected Publications 
 
 ## Deep Learning for Medical Image Analysis
