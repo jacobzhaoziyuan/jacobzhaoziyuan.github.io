@@ -1,6 +1,6 @@
-# 📝 Selected Publications 
+# 📝 Publications 
 
-## Deep Learning for Medical Image Analysis
+## More detials can be found in my Google Scholar
 - [Self-supervised Assisted Active Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2205.07021), **Ziyuan Zhao**, Wenjing Lu, Zeng Zeng, Kaixin Xu, Bharadwaj Veeravalli, Cuntai Guan, **EMBC 2022**
 - [MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels](https://arxiv.org/abs/2203.12454), **Ziyuan Zhao**, Kaixin Xu, Shumeng Li, Zeng Zeng, Cuntai Guan, **MICCAI 2022**
 - [Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/abs/2105.10369), Shumeng Li, **Ziyuan Zhao**, Kaixin Xu, Zeng Zeng, Cuntai Guan, **EMBC 2022**
