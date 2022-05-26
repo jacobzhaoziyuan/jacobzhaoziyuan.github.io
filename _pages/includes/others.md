@@ -1,4 +1,3 @@
-
 # 📖 Educations
 - *2021.08 - now*, Ph.D. Student, Nanyang Technological University, Singapore.
 - *2018.01 - 2019.07*, M.Tech., National University of Singapore, Singapore.
