@@ -5,7 +5,7 @@ I am currently a Ph.D. student at the
 <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity (NTU)</a>, 
 supervised by <a href="https://personal.ntu.edu.sg/ctguan/">Prof. Cuntai Guan</a>.
 Previously, I received the M.Tech degree, <a href="https://www.nus.edu.sg/">National University of Singapore</a> in 2019 
-and the B.Eng degree, <a href="https://www.ynu.edu.cn/">Yunnan University</a> in 2017.
+and the B.Eng degree, <a href="http://english.ynu.edu.cn/">Yunnan University</a> in 2017.
 
 My research interest lies in the interdisciplinary field of biomedical image analysis, artificial intelligence and healthcare.
 I am dedicated to designing machine learning algorithms for biomedical image analysis and automatic medical diagnosis, promoting wider AI-powered healthcare in the real world.
