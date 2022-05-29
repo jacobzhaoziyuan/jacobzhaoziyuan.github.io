@@ -7,12 +7,12 @@
 
 
 - [MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels](https://arxiv.org/abs/2203.12454)\
-**Ziyuan Zhao**, Kaixin Xu, Shumeng Li, Zeng Zeng, Cuntai Guan
+**Ziyuan Zhao**, Kaixin Xu, Shumeng Li, Zeng Zeng, Cuntai Guan\
 <i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2021.</i> 
 
 
 - [Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/abs/2105.10369)\
-Shumeng Li, **Ziyuan Zhao**, Kaixin Xu, Zeng Zeng, Cuntai Guan
+Shumeng Li, **Ziyuan Zhao**, Kaixin Xu, Zeng Zeng, Cuntai Guan\
 <i> Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC**), 2021. </i> 
 
 - [DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers for Biomedical Image Segmentation](https://arxiv.org/abs/2101.09057)\
@@ -28,6 +28,6 @@ Shumeng Li, **Ziyuan Zhao**, Kaixin Xu, Zeng Zeng, Cuntai Guan
 <i> IEEE International Conference on Image Processing (**ICIP**), 2019. </i>
 
 - [Semi-supervised self-taught deep learning for finger bones segmentation](https://arxiv.org/abs/1905.06312)\
-**Ziyuan Zhao**, Xiaoman Zhang, Cen Chen, Wei Li, Songyou Peng, Jie Wang, Xulei Yang, Le Zhang, Zeng Zeng
+**Ziyuan Zhao**, Xiaoman Zhang, Cen Chen, Wei Li, Songyou Peng, Jie Wang, Xulei Yang, Le Zhang, Zeng Zeng\
 <i> IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI**), 2019. <span style="color:red">(Oral)</span> </i>
 
