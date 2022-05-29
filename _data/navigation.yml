@@ -8,6 +8,13 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    
+    
+  - title: "Professional Services"
+    url: "/#-internships"
+    
+  - title: "Honors and Awards"
+    url: "/#-internships"
 
   - title: "Educations"
     url: "/#-educations"
