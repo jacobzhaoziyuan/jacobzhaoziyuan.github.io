@@ -8,5 +8,6 @@ IEEE International Conference on High Performance Computing and Communications (
 -  **Journal Reviewer:**\
 Neurocomputing\
 Pattern Recognition\
+IEEE Journal of Biomedical and Health Informatics (J-BHI)\
 Computer Methods and Programs in Biomedicine (CMPB)\
 Journal of Parallel and Distributed Computing (JPDC)
