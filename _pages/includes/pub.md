@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-## More detials can be found in my [Google Scholar](https://scholar.google.com/citations?user=2vL2XTsAAAAJ)
+## More details can be found in my [Google Scholar](https://scholar.google.com/citations?user=2vL2XTsAAAAJ)
 - [Self-supervised Assisted Active Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2205.07021)\
 **Ziyuan Zhao**, Wenjing Lu, Zeng Zeng, Kaixin Xu, Bharadwaj Veeravalli, Cuntai Guan\
 <i> Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC**), 2022. <span style="color:red">(Oral)</span></i> 
