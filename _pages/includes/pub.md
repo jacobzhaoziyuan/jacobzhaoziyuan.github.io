@@ -6,7 +6,7 @@
 **Ziyuan Zhao**, Andong Zhu, Zeng Zeng, Bharadwaj Veeravalli, Cuntai Guan\
 <i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i> 
 
-- [MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation](https://arxiv.org/abs/2207.01900)\
+- [MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation](https://arxiv.org/abs/2207.01883)\
 **Ziyuan Zhao**, Jinxuan Hu, Zeng Zeng, Xulei Yang, Peisheng Qian, Bharadwaj Veeravalli, Cuntai Guan\
 <i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i> 
 
