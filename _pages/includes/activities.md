@@ -6,8 +6,9 @@ Computer Graphics International(CGI’22)\
 IEEE International Conference on High Performance Computing and Communications (HPCC’20-21)
 
 -  **Journal Reviewer:**\
+IEEE Transactions on Medical Imaging (TMI)\
+IEEE Journal of Biomedical and Health Informatics (J-BHI)\
 Neurocomputing\
 Pattern Recognition\
-IEEE Journal of Biomedical and Health Informatics (J-BHI)\
 Computer Methods and Programs in Biomedicine (CMPB)\
 Journal of Parallel and Distributed Computing (JPDC)
