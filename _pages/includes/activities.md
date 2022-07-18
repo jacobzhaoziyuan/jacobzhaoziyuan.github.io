@@ -10,5 +10,6 @@ IEEE Transactions on Medical Imaging (TMI)\
 IEEE Journal of Biomedical and Health Informatics (J-BHI)\
 Neurocomputing\
 Pattern Recognition\
+Neural Computing and Applications\
 Computer Methods and Programs in Biomedicine (CMPB)\
 Journal of Parallel and Distributed Computing (JPDC)
