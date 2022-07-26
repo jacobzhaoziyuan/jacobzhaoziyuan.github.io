@@ -3,7 +3,7 @@
 - **Conference Reviewer:**\
 Medical Image Computing and Computer Assisted Intervention (MICCAI’20-22)\
 Computer Graphics International(CGI’22)\
-IEEE International Conference on High Performance Computing and Communications (HPCC’20-21)
+IEEE International Conference on High Performance Computing and Communications (HPCC’20-22)
 
 -  **Journal Reviewer:**\
 IEEE Transactions on Medical Imaging (TMI)\
