@@ -7,7 +7,7 @@ IEEE International Conference on High Performance Computing and Communications (
 
 -  **Journal Reviewer:**\
 IEEE Transactions on Medical Imaging (TMI)\
-IEEE Journal of Biomedical and Health Informatics (J-BHI)\
+IEEE Journal of Biomedical and Health Informatics (JBHI)\
 Neurocomputing\
 Pattern Recognition\
 Neural Computing and Applications\
