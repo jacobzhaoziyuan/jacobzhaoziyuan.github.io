@@ -1,4 +1,5 @@
 # 🔥 News
+- *2022.09*: I will attend the MICCAI conference, 18-22 Sep 2022, Singapore.
 - *2022.06*: Three paper was accepted by ICIP 2022, thanks to all co-authors.
 - *2022.05*: One paper <b>"Meta-hallucinator: Towards few-shot cross-modality cardiac image segmentation"</b>  was provisionally accepted by MICCAI 2022 (top 13% in total 1825 submissions), thanks to all co-authors.
 - *2022.05*: Our paper <b>"CoIn: Correlation Induced Clustering for Cognition of High Dimensional Bioinformatics Data"</b> was accepted by IEEE Journal of Biomedical And Health Informatics, thanks to all co-authors. [paper](https://ieeexplore.ieee.org/document/9801680) is avaliable.
