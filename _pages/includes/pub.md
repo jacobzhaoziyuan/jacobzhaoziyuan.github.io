@@ -1,6 +1,10 @@
 # 📝 Publications 
 
 ## More details can be found in my [Google Scholar](https://scholar.google.com/citations?user=2vL2XTsAAAAJ)
+- [LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)\
+**Ziyuan Zhao**, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
+<i> IEEE Transactions on Medical Image (**TMI**), 2022. </i> 
+
 - [Meta-hallucinator: Towards few-shot cross-modality cardiac image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)\
 **Ziyuan Zhao**, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
 <i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2022. <span style="color:red">(Early Accept)</span></i> 
