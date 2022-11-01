@@ -1,5 +1,5 @@
 # 🔥 News
-- *2022.10*: Our paper <b>"Efficient Perturbation Inference and Expandable Network for Continual Learning"</b>  was accepted by Neural networks, thanks to all co-authors.  [paper](https://www.researchgate.net/publication/364947749_Efficient_Perturbation_Inference_and_Expandable_Network_for_Continual_Learning) is avaliable.
+- *2022.11*: Our paper <b>"Efficient Perturbation Inference and Expandable Network for Continual Learning"</b>  was accepted by Neural networks, thanks to all co-authors.  [paper](https://www.researchgate.net/publication/364947749_Efficient_Perturbation_Inference_and_Expandable_Network_for_Continual_Learning) is avaliable.
 - *2022.10*: Our paper <b>"LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation"</b>  was accepted by IEEE Transactions on Medical Imaging, thanks to all co-authors.  [paper](https://ieeexplore.ieee.org/document/9919170) is avaliable.
 - *2022.09*: Our paper <b>"DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection"</b>  was accepted by BMVC 2022, thanks to all co-authors.
 - *2022.06*: Three papers ([MMGL](https://arxiv.org/abs/2207.01883), [ACT-Net](https://arxiv.org/abs/2207.01900), and [OASSMLL](https://arxiv.org/abs/2205.07028)) were accepted by ICIP 2022, thanks to all co-authors.
