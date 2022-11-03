@@ -12,5 +12,6 @@ IEEE Journal of Biomedical and Health Informatics (JBHI)\
 Neurocomputing\
 Pattern Recognition\
 Neural Computing and Applications\
+Information Processing and Management (IP&M)\
 Computer Methods and Programs in Biomedicine (CMPB)\
 Journal of Parallel and Distributed Computing (JPDC)
