@@ -3,7 +3,7 @@ Welcome to Ziyuan (Jacob) ZHAO's homepage (赵子源)
 
 I am currently a senior research engineer at
 <a href="https://www.a-star.edu.sg/i2r">Institute for Infocomm Research (I2R)</a>, 
-<a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*STAR)</a>. I am also a 2nd year Ph.D. student at the 
+<a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*STAR)</a>, Singapore 🇸🇬. I am also a 2nd year Ph.D. student at the 
 <a href="https://www.ntu.edu.sg/scse">School of Computer Science and Engineering (SCSE)</a>,
 <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity (NTU)</a>, 
 supervised by <a href="https://personal.ntu.edu.sg/ctguan/">Prof. Cuntai Guan</a>.
