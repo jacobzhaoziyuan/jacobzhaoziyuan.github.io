@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## More details can be found in my [Google Scholar](https://scholar.google.com/citations?user=2vL2XTsAAAAJ)
-- [LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/document/9919170)\
+- [LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://arxiv.org/abs/2212.02078)\
 **Ziyuan Zhao**, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
 <i> IEEE Transactions on Medical Image (**TMI**), 2022. </i> 
 
@@ -9,7 +9,7 @@
 **Ziyuan Zhao**, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
 <i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2022. <span style="color:red">(Early Accept)</span></i> 
 
-- [DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)\
+- [DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection](https://arxiv.org/abs/2212.02057)\
 **Ziyuan Zhao**, Mingxi Xu, Peisheng Qian, Ramanpreet Pahwa, Richard Chang\
 <i> British Machine Vision Conference (**BMVC**), 2022. <span style="color:red">(Spotlight)</span></i> 
 
