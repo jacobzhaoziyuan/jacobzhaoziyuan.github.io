@@ -1,5 +1,4 @@
 # 🔥 News
-- *2022.11*: I will attend the BMVC2022 conference held in London, UK from 21-24 Nov. If you want to meet & chat, ping me up!
 - *2022.11*: Our paper <b>"Efficient Perturbation Inference and Expandable Network for Continual Learning"</b>  was accepted by Neural networks, thanks to all co-authors.  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022004269) is avaliable.
 - *2022.10*: Our paper <b>"LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation"</b>  was accepted by IEEE Transactions on Medical Imaging, thanks to all co-authors.  [paper](https://ieeexplore.ieee.org/document/9919170) is avaliable.
 - *2022.09*: Our paper <b>"DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection"</b>  was accepted by BMVC 2022 for spotlight presentation (30/770 submissions), thanks to all co-authors.
