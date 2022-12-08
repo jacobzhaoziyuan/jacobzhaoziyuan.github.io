@@ -11,6 +11,7 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS)\
 IEEE Transactions on Biomedical Engineering (TBME)\
 IEEE Journal of Biomedical and Health Informatics (JBHI)\
 Frontiers in Oncology\
+Neural Networks\
 Neurocomputing\
 Pattern Recognition\
 Neural Computing and Applications\
