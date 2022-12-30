@@ -10,11 +10,12 @@ IEEE Transactions on Medical Imaging (TMI)\
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)\
 IEEE Transactions on Biomedical Engineering (TBME)\
 IEEE Journal of Biomedical and Health Informatics (JBHI)\
-Frontiers in Oncology\
+Medical Image Analysis\
 Neural Networks\
 Neurocomputing\
 Pattern Recognition\
 Neural Computing and Applications\
-Information Processing and Management (IP&M)\
+Frontiers in Oncology\
 Computer Methods and Programs in Biomedicine (CMPB)\
+Information Processing and Management (IP&M)\
 Journal of Parallel and Distributed Computing (JPDC)
