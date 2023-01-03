@@ -13,13 +13,13 @@
 **Ziyuan Zhao**, Mingxi Xu, Peisheng Qian, Ramanpreet Pahwa, Richard Chang\
 <i> British Machine Vision Conference (**BMVC**), 2022. <span style="color:red">(Spotlight)</span></i> 
 
-- [ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation](https://arxiv.org/abs/2207.01900)\
+<!-- - [ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation](https://arxiv.org/abs/2207.01900)\
 **Ziyuan Zhao**, Andong Zhu, Zeng Zeng, Bharadwaj Veeravalli, Cuntai Guan\
-<i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i> 
+<i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i>  -->
 
-- [MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation](https://arxiv.org/abs/2207.01883)\
+<!-- - [MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation](https://arxiv.org/abs/2207.01883)\
 **Ziyuan Zhao**, Jinxuan Hu, Zeng Zeng, Xulei Yang, Peisheng Qian, Bharadwaj Veeravalli, Cuntai Guan\
-<i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i> 
+<i> IEEE International Conference on Image Processing (**ICIP**), 2022. </i>  -->
 
 - [Self-supervised Assisted Active Learning for Skin Lesion Segmentation](https://arxiv.org/abs/2205.07021)\
 **Ziyuan Zhao**, Wenjing Lu, Zeng Zeng, Kaixin Xu, Bharadwaj Veeravalli, Cuntai Guan\
@@ -43,9 +43,9 @@ Shumeng Li, **Ziyuan Zhao**, Kaixin Xu, Zeng Zeng, Cuntai Guan\
 **Ziyuan Zhao**, Kartik Chopra, Zeng Zeng, Xiaoli Li\
 <i> IEEE International Conference on Image Processing (**ICIP**), 2020. </i> -->
 
-- [Bira-net: Bilinear attention net for diabetic retinopathy grading](https://arxiv.org/abs/1905.06312)\
+<!-- - [Bira-net: Bilinear attention net for diabetic retinopathy grading](https://arxiv.org/abs/1905.06312)\
 **Ziyuan Zhao**, Kerui Zhang, Xuejie Hao, Jing Tian, Matthew Chin Heng Chua, Li Chen, Xin Xu\
-<i> IEEE International Conference on Image Processing (**ICIP**), 2019. </i>
+<i> IEEE International Conference on Image Processing (**ICIP**), 2019. </i> -->
 
 - [Semi-supervised self-taught deep learning for finger bones segmentation](https://arxiv.org/abs/1903.04778)\
 **Ziyuan Zhao**, Xiaoman Zhang, Cen Chen, Wei Li, Songyou Peng, Jie Wang, Xulei Yang, Le Zhang, Zeng Zeng\
