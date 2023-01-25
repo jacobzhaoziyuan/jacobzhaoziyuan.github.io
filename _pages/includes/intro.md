@@ -16,5 +16,7 @@ Specifically, I focus on (1) developing annotation-efficient learning algorithms
 
 <span style="color:red">Openings: We have multiple openings for Interns/Visiting Ph.D. sudents (all-year-round) to work on research projects related to medical image analysis and 3D vision. Students with strong self-motivation and publication record are preferred. Welcome to drop me an email with your CV. Remote collaboration is also welcome!</span>
 
-<span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria">A*STAR Research Internship Award (ARIA)</a>   : "184 - Label-Efficient Learning for Medical Image Analysis" and "245 - Transfer Learning for Medical Image Analysis" </span>
+<span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria">A*STAR Research Internship Award (ARIA)</a>   : "184 - Label-Efficient Learning for Medical Image Analysis" and "245 - Transfer Learning for Medical Image Analysis" For local undergrates </span>
+
+<span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga">Singapore International Pre-Graduate Award (SIPGA)</a> For overseas undergraduate students in their third or fourth year, or master students.</span>
 
