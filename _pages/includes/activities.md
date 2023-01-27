@@ -1,6 +1,6 @@
 # 💬 Talks
 - **Label-efficient Deep Learning for Computer Vision**\
-at [Institute of Systems Science (ISS)](https://www.iss.nus.edu.sg/), NUS, January 2022. (invited by Dr. TIAN Jing)
+at [Institute of Systems Science (ISS)](https://www.iss.nus.edu.sg/), NUS, January 2023. (invited by Dr. TIAN Jing)
 
 - **Unsupervised Domain Adaptation in Medical Image Segmentation**\
 at IEEEDay x EMBS Chapters Torch Relay Public Webinar, October 2022. [[video](https://www.youtube.com/watch?v=pLwDivUiIhE&t=4285s) (YouTube)]
