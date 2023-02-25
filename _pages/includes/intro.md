@@ -20,3 +20,7 @@ Specifically, I focus on (1) developing annotation-efficient learning algorithms
 
 <span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga">Singapore International Pre-Graduate Award (SIPGA)</a> For overseas undergraduate students in their third or fourth year, or master students.</span>
 
+
+<span style="color:red">  <a href="https://www.csc.edu.cn/article/2306">Chinese Scholarship Council (CSC) Scholarship</a> For Chinese master or PhD students for visiting exchange.</span>
+
+
