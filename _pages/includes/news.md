@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.03*: Our team achieved 5th place in <b>Cross-Modality Domain Adaptation for Medical Image Segmentation(crossMoDA) 2022 challenge</b>. The results are out [here](https://crossmoda-challenge.ml/results_2022/).
+- *2023.03*: Our team achieved 5th place in <b>Cross-Modality Domain Adaptation for Medical Image Segmentation(crossMoDA) 2022 challenge</b>. The results are out [here](https://crossmoda-challenge.ml/results_2022/). [Technical report](https://arxiv.org/abs/2303.15826) is avaliable.
 - *2023.01*:👲 Happy 🧧 Chunjie 🧨 Chinese New Year 🐰 Rabbit Year 🐇 Spring Festival 🏮 Lunar New Year! 🥟
 - *2022.12*: Happy to receive the <b>A*STAR AI3 HTCO Seed Fund [PI, SG$300,000]</b>. More details about AI3 HTCO can be found [here](https://www.a-star.edu.sg/htco/artificial-intelligence-analytics-and-informatics).
 - *2022.11*: Our paper <b>"Efficient Perturbation Inference and Expandable Network for Continual Learning"</b>  was accepted by Neural networks, thanks to all co-authors.  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022004269) is avaliable.
