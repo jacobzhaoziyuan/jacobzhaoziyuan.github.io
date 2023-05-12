@@ -9,7 +9,7 @@
 **Ziyuan Zhao**, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
 <i> IEEE Transactions on Medical Image (**TMI**), 2022. </i> 
 
-- [Meta-hallucinator: Towards few-shot cross-modality cardiac image segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)\
+- [Meta-hallucinator: Towards few-shot cross-modality cardiac image segmentation](https://arxiv.org/abs/2305.06978)\
 **Ziyuan Zhao**, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
 <i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2022. <span style="color:red">(Early Accept)</span></i> 
 
