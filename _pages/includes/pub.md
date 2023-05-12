@@ -11,11 +11,11 @@
 
 - [Meta-hallucinator: Towards few-shot cross-modality cardiac image segmentation](https://arxiv.org/abs/2305.06978)\
 **Ziyuan Zhao**, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou\
-<i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2022. <span style="color:red">(Early Accept)</span></i> 
+<i> Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2022. <span style="color:red">(Top 13% paper, Early Accept)</span></i> 
 
 - [DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection](https://arxiv.org/abs/2212.02057)\
 **Ziyuan Zhao**, Mingxi Xu, Peisheng Qian, Ramanpreet Pahwa, Richard Chang\
-<i> British Machine Vision Conference (**BMVC**), 2022. <span style="color:red">(Spotlight)</span></i> 
+<i> British Machine Vision Conference (**BMVC**), 2022. <span style="color:red">(30/770 submissions, Spotlight)</span></i> 
 
 <!-- - [ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation](https://arxiv.org/abs/2207.01900)\
 **Ziyuan Zhao**, Andong Zhu, Zeng Zeng, Bharadwaj Veeravalli, Cuntai Guan\
