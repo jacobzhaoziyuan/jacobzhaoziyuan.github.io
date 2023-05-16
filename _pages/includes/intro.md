@@ -14,13 +14,15 @@ My research interest lies in the interdisciplinary field of biomedical image ana
 I am dedicated to designing machine learning algorithms for biomedical image analysis and automatic medical diagnosis, promoting wider AI-powered healthcare in the real world.
 Specifically, I focus on (1) developing annotation-efficient learning algorithms to minimize the annotation cost; (2) developing cross-domain learning algorithms to integrate different biomedical data; and (3) building reliable, generalizable, and practical AI healthcare systems from imperfect biomedical data. I have published more than 30 papers <a href='https://scholar.google.com/citations?user=2vL2XTsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjacobzhaoziyuan%2Fjacobzhaoziyuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals.
 
-<span style="color:red">Openings: We have multiple openings for Interns/Visiting Ph.D. sudents (all-year-round) to work on research projects related to medical image analysis and 3D vision. Students with strong self-motivation and publication record are preferred. Welcome to drop me an email with your CV. Remote collaboration is also welcome!</span>
+<span style="color:red">[Attention all 3D vision experts!] Hiring: We're looking for a highly skilled and motivated research scientist with proven experience in 3D vision and a focus on Multi-modal Learning for 3D Scene Understanding. <a href="https://www.linkedin.com/jobs/view/3603653601/?refId=3iC61bASS96aIK7xwKMTSw%3D%3D&trackingId=3iC61bASS96aIK7xwKMTSw%3D%3D">See More Details.</a></span>
 
-<span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria">A*STAR Research Internship Award (ARIA)</a>   : "184 - Label-Efficient Learning for Medical Image Analysis" and "245 - Transfer Learning for Medical Image Analysis" For local undergrates </span>
+<span style="color:black">Openings: We have multiple openings for Interns/Visiting Ph.D. sudents (all-year-round) to work on research projects related to medical image analysis and 3D vision. Students with strong self-motivation and publication record are preferred. Welcome to drop me an email with your CV. Remote collaboration is also welcome!</span>
 
-<span style="color:red">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga">Singapore International Pre-Graduate Award (SIPGA)</a> For overseas undergraduate students in their third or fourth year, or master students.</span>
+<span style="color:black">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria">A*STAR Research Internship Award (ARIA)</a>   : "184 - Label-Efficient Learning for Medical Image Analysis" and "245 - Transfer Learning for Medical Image Analysis" For local undergrates </span>
+
+<span style="color:black">  <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga">Singapore International Pre-Graduate Award (SIPGA)</a> For overseas undergraduate students in their third or fourth year, or master students.</span>
 
 
-<span style="color:red">  <a href="https://www.csc.edu.cn/article/2306">Chinese Scholarship Council (CSC) Scholarship</a> For Chinese master or PhD students for visiting exchange.</span>
+<span style="color:black">  <a href="https://www.csc.edu.cn/article/2306">Chinese Scholarship Council (CSC) Scholarship</a> For Chinese master or PhD students for visiting exchange.</span>
 
 
