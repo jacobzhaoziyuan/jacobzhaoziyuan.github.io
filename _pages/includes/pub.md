@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## More details can be found in my [Google Scholar](https://scholar.google.com/citations?user=2vL2XTsAAAAJ)
-- [SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction](https://arxiv.org/abs/2212.02078)\
+- [SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction](https://arxiv.org/abs/2305.08316)\
 **Ziyuan Zhao**, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Wai Leong Tam, Xiaoli Li\
 <i> IInternational Joint Conference on Artificial Intelligence (**IJCAI**), 2023. <span style="color:red">(acceptance rate: 15%)</span></i> 
 
