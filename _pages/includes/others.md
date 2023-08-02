@@ -4,7 +4,8 @@
 - *2013.08 - 2017.07*, B.Eng., Yunnan University, China.
 
 # 💻 Experience
-- *2022.04 - now*, Senior Research Engineer, [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.
+- *2022.07 - now*, Senior Research Engineer II, [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.
+- *2022.04 - 2023.06*, Senior Research Engineer I, [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.
 - *2019.08 - 2022.03*, Research Engineer, [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.
 - *2019.04 - 2019.07*, Junior Research Assistant, [ADSC, UIUC](https://adsc.illinois.edu/), Singapore.
 - *2018.08 - 2019.03*, Research Intern, [I2R, A*STAR](https://www.a-star.edu.sg/i2r), Singapore.
