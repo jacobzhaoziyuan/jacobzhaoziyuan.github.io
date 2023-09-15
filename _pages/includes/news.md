@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.08*：Our paper on distribution learning has been reported on A*STAR Research Highlights [link](https://research.a-star.edu.sg/articles/highlights/traffic-prediction-framework-gets-the-green-light/).
 - *2023.07*: Our paper <b>"Modal-aware Visual Prompting for Incomplete Multi-modal Brain Tumor Segmentation "</b>  was accepted by ACM MM 2023, thanks to all co-authors.
 - *2023.05*: Happy to receive the A\*STAR Sponsorship Award (Formerly known as A\*STAR Scientific Staff Development Award (SSDA)).
 - *2023.04*: Our paper <b>"SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein–Protein Interaction Prediction"</b>  was accepted by IJCAI 2023 (acceptance rate: 15%), thanks to all co-authors.  [paper](https://arxiv.org/abs/2305.08316) is avaliable.
